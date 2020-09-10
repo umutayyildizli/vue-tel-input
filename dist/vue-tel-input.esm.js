@@ -989,7 +989,7 @@ var __vue_render__ = function __vue_render__() {
     ref: "input",
     class: ['vti__input', _vm.inputClasses],
     attrs: {
-      "type": "tel",
+      "type": "text",
       "autocomplete": _vm.autocomplete,
       "autofocus": _vm.autofocus,
       "disabled": _vm.disabled,
